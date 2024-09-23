@@ -21,12 +21,7 @@ Each function should have different parameters, here are some hints
 Write a test in `main` that calls each function and prints the result to the console.
 
 # Exercise 0x03
-
-
-# Exercise 0x04
-Create functions for 2x2 matrix addition, and multiplication.
-Allow the user to input matrix data.
-Allow the user to choose which operations to person on two matrices and prints the result to the console.
+Extract one (or more) function(s) from the code below, that makes the program more comprehensible.
 
 ```c++
 int main(int argc, char** argv) {
@@ -46,3 +41,9 @@ int main(int argc, char** argv) {
   return 0;
 }
 ```
+
+# Exercise 0x04
+Create functions for 2x2 matrix addition, and multiplication.
+Allow the user to input matrix data.
+Allow the user to choose which operations to person on two matrices and prints the result to the console.
+
