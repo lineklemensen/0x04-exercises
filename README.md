@@ -46,4 +46,3 @@ int main(int argc, char** argv) {
 Create functions for 2x2 matrix addition, and multiplication.
 Allow the user to input matrix data.
 Allow the user to choose which operations to person on two matrices and prints the result to the console.
-
