@@ -1,7 +1,3 @@
-# dev-setup
-Developer environment for SW1OPRG-01
-
-
 # Exercise 0x00
 Write a function `findMax` that takes three integers as input and returns the maximum among them.
 Write a test that calls the `findMax` function and prints the result to the console.
