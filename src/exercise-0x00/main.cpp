@@ -1,6 +1,17 @@
 #include <iostream>
+#include "findMax.h"
+
+using namespace std;
 
 int main() {
-  std::cout << "Exercise 0x00" << std::endl;
+  int a, b, c;
+
+  cout << "Please enter 3 numbers: ";
+  cin >> a >> b >> c;
+
+  int max = findMax(a, b, c);
+
+  cout << "The highest number is: " << max << endl;
+
   return 0;
 }
