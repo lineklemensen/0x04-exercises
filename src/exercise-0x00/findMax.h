@@ -1,5 +1,5 @@
-#ifndef findMax_h
-#define findMax_h
+#ifndef FINDMAX_H
+#define FINDMAX_H
 
 int findMax(int a, int b, int c);
 
