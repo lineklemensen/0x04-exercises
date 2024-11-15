@@ -1,0 +1,6 @@
+#ifndef TRIANGLE_AREA_H
+#define TRIANGLE_AREA_H 
+
+
+
+#endif // TRIANGLE_AREA_H
